@@ -1,9 +1,9 @@
-# bhujang-multani
+# kamaljeet-singh
 
 
-ALL ABOUT BHUJANG MULTANI 
+ALL ABOUT KAMALJEET SINGH 
 
-Hi, I'm Bhujangbir Singh. I'm currently pursuing my undergraduate degree at GNDEC Ludhiana. Hailing from a small village in Kapurthala, I enjoy coding and reading books. I'm proud to be a district topper in the Maths Olympiad and have also played basketball at the district level.
+Hi, I'm Kamaljeet singh. I'm currently pursuing my undergraduate degree at GNDEC Ludhiana. Hailing from a small village in Kapurthala, I enjoy coding and reading books. I'm proud to be a district topper in the Maths Olympiad and have also played basketball at the district level.
 
 
 
@@ -53,4 +53,4 @@ The MAX function returns the highest number in a range. In cell B11, I typed =MA
 
 Leveraging these functions will help you perform calculations quickly and efficiently.
 
-FEEL FREE TO CONTACT ME--- bhujangbirsingh16@gmail.com
+FEEL FREE TO CONTACT ME--- kamalplaha93@gmail.com
